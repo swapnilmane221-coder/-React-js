@@ -1,0 +1,23 @@
+.heading{
+  color: green;
+}
+.img-style{
+  width: 200px; 
+  height: 200px;
+  border: 1px solid black;
+  box-shadow: 5px 5px 15px black;
+}
+.card{
+  width: 200px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+  margin: 20px;
+  box-shadow: 5px 4px 15px black;
+}
+.content{
+  font-size: 16px;
+  color: #333;
+  font-family:cursive;
+  font-weight: bold;
+}
